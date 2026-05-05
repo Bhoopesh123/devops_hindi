@@ -14,3 +14,8 @@
     head, tail -f → logs monitoring  
     vim / nano → edit files  
 
+# 3. User & Permissions  
+
+    chmod → permissions change
+    chown → ownership change
+    sudo → admin access
